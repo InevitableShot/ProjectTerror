@@ -74,5 +74,3 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 Config/DefaultEngine.ini
 Platforms/HoloLens/Config/HoloLensEngine.ini
-Content/VigilanteContent/*
-West_Carrier_CVN76.png
